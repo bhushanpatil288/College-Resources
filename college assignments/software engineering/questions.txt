@@ -1,0 +1,7 @@
+Here are 5 questions based on the provided PDF, designed to elicit detailed answers suitable for a 5-mark assignment:
+
+1.  **Define Software Engineering and discuss its core objectives in detail. How do these objectives contribute to the creation of high-quality software products?** (Refer to pages 1-2)
+2.  **Explain the six major characteristics of software as discussed in the document. Provide examples for each characteristic and elaborate on their importance in software development.** (Refer to pages 2-6)
+3.  **Describe the Software Development Life Cycle (SDLC) and its importance in software engineering. Detail the six main stages of the SDLC, outlining the key activities performed in each stage.** (Refer to pages 6-9)
+4.  **Differentiate between Generic and Customized Software Products, providing clear examples for each. Discuss the advantages and disadvantages of both types of products from a user and developer perspective.** (Refer to page 10)
+5.  **Identify and explain at least five key Software Engineering Principles from the document. For each principle, discuss why it is important for the successful development of a software project.** (Refer to pages 11-12)
